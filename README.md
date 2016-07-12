@@ -3,6 +3,7 @@
 Portfolio is an application designed primarily to showcase my iOS development skills.
 
 It should also serve a purpose as an interactive résumé with 6 sections:
+
 1. Apps
 2. Controls
 3. Experience
