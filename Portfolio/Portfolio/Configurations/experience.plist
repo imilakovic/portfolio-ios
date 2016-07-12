@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+        <key>position</key>
+        <string>iOS Developer</string>
+        <key>title</key>
+        <string>NTH Media</string>
+        <key>url</key>
+        <string>http://www.nth.ch</string>
+		<key>start_date</key>
+		<string>2011-02-01</string>
+        <key>end_date</key>
+        <string>2012-02-28</string>
+        <key>location</key>
+        <string>Osijek, Croatia</string>
+        <key>notes</key>
+        <array>
+            <string>passed iOS development training</string>
+            <string>created technical documentation</string>
+            <string>developed native iPhone and iPad applications</string>
+        </array>
+	</dict>
+	<dict>
+        <key>position</key>
+        <string>iOS Developer</string>
+        <key>title</key>
+        <string>Impaddo</string>
+        <key>url</key>
+        <string>http://www.impaddo.com</string>
+		<key>start_date</key>
+		<string>2012-03-01</string>
+        <key>end_date</key>
+        <string>2014-02-28</string>
+        <key>location</key>
+        <string>Osijek, Croatia</string>
+        <key>notes</key>
+        <array>
+            <string>supervised development on several projects</string>
+            <string>provided technical consulting</string>
+            <string>developed native iPhone and iPad applications</string>
+        </array>
+	</dict>
+	<dict>
+        <key>position</key>
+        <string>iOS Developer/Team Leader</string>
+        <key>title</key>
+        <string>COBE</string>
+        <key>url</key>
+        <string>http://www.cobeisfresh.com</string>
+		<key>start_date</key>
+		<string>2014-03-01</string>
+        <key>end_date</key>
+        <string>2014-11-30</string>
+        <key>location</key>
+        <string>Osijek, Croatia</string>
+        <key>notes</key>
+        <array>
+            <string>defined iOS coding style guide</string>
+            <string>provided technical consulting</string>
+            <string>co-ordinated a team of 2 people</string>
+            <string>developed native iPhone and iPad applications</string>
+        </array>
+	</dict>
+	<dict>
+        <key>position</key>
+        <string>Co-founder/iOS Developer</string>
+		<key>title</key>
+		<string>Applab</string>
+        <key>url</key>
+        <string>http://www.applab.hr</string>
+        <key>start_date</key>
+        <string>2014-12-01</string>
+        <key>location</key>
+        <string>Osijek, Croatia</string>
+        <key>notes</key>
+        <array>
+            <string>managed sales and communication with clients</string>
+            <string>organised and supervised project lifecycle</string>
+            <string>provided technical consulting</string>
+            <string>co-ordinated a team of 3 people</string>
+            <string>instructed and assisted junior developers</string>
+            <string>developed native iPhone and iPad applications</string>
+            <string>developed backend applications</string>
+        </array>
+	</dict>
+</array>
+</plist>

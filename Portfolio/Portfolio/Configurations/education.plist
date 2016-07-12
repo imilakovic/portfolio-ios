@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>III Gymnasium Osijek</string>
+		<key>timeline</key>
+		<string>09/2000 - 06/2004</string>
+		<key>major</key>
+		<string>Intensified Informatics Class</string>
+		<key>image</key>
+		<string>p_education_highSchool</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Faculty of Electrical Engineering Osijek</string>
+		<key>timeline</key>
+		<string>10/2004 - 02/2010</string>
+		<key>major</key>
+		<string>Information Sciences and Communication</string>
+		<key>note</key>
+		<string>Recognized by WES Canada:
+Bachelor's degree (four years)
+ECA#: 3037040IMM</string>
+		<key>image</key>
+		<string>p_education_university</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Faculty of Humanities and Social Sciences Osijek</string>
+		<key>timeline</key>
+		<string>09/2011 - 05/2012</string>
+		<key>major</key>
+		<string>Pedagogical Education</string>
+		<key>image</key>
+		<string>p_education_university</string>
+	</dict>
+</array>
+</plist>

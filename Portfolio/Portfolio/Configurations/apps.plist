@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Prank Caller - Prank Call Your Friends!</string>
+		<key>image</key>
+		<string>icon_prank_app</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/prank-caller-prank-call-your/id1118439970?mt=8</string>
+		<key>description</key>
+		<string>Built on top of Plivo API, this app allows user to make prank calls using one of prerecorded messages which is played to the victim user. The entire call (including reaction) is recorded and can be listened to and shared via social networks.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Sked - Shift Work Schedule Manager &amp; Pay Calculator</string>
+		<key>image</key>
+		<string>icon_sked</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/sked-shift-schedule-manager/id1084550419?mt=8</string>
+		<key>description</key>
+        <string>Sked is a work schedule manager used mainly by freelancers or anyone who works flexible hours. Some of the features are: adding multiple jobs and assigning shifts to them; adding notes; setting reminders before work; sharing jobs (including assigned shifts) with other users; payment calculations which respect breaks, overtime and holidays with an option to export as an invoice; synchronization with Calendar app; Today widget.</string>
+        <key>notes</key>
+        <array>
+            <string>I have built both the iOS app and the Node.js/MySQL backend</string>
+        </array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>BeerPic - Beer Pic Augmented Reality Rating - Powered by RateBeer</string>
+		<key>image</key>
+		<string>icon_beerpic</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/beerpic-beer-pic-augmented/id1057499208?mt=8</string>
+		<key>description</key>
+        <string>An app for beer fans which utilizes image recognition (augmented reality) for retrieving information about the specific beer. Connected to the RateBeer database, it has access to approximately 100 000 beers.</string>
+        <key>notes</key>
+        <array>
+            <string>since the app was done by a team of 4 people (including me), besides iOS development, I was responsible for all communication with the client and project management within the team</string>
+            <string>I have mentored a junior iOS developer during the project</string>
+        </array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Countdown Reminder Calendar - Event Timer Countdowns</string>
+		<key>image</key>
+		<string>icon_countdown_reminder_calendar</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/countdown-reminder-calendar/id962781434?mt=8</string>
+		<key>description</key>
+		<string>An event calendar with custom countdown options: assigning a photo to each event, setting additional reminder before the event and selecting any combination of year/month/day/hour/minute/second to view the remaining time until the event.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Make Todo Lists with QuickNote</string>
+		<key>image</key>
+		<string>icon_do_to_day</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/make-todo-lists-quicknote/id951941394?mt=8</string>
+		<key>description</key>
+		<string>A simple todo list app using gestures to add, remove, mark as completed or reorder todos. It also enables a user to set a reminder for each todo. Today widget is implemented for a quick overview.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Careified Mobile</string>
+		<key>image</key>
+		<string>icon_careified</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/careified-mobile/id939264008?mt=8</string>
+		<key>description</key>
+        <string>Careified is an app targeted for caregivers which connects them with employers and companies. Key features are: setting availability for each day; uploading various documents and medical certificates; entering skills and work preferences.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>mytest</string>
+		<key>image</key>
+		<string>icon_mytest</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/de/app/mytest/id916478077?mt=8</string>
+		<key>description</key>
+		<string>An app for product testers. Users can choose from a list of products and write a review for them, along with attaching images and/or a video. Approved product review can also be shared via Facebook and Twitter.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>KICKBASE - Der Bundesliga Manager LIVE</string>
+		<key>image</key>
+		<string>icon_kkstr</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/de/app/kickbase-der-bundesliga-manager/id678241305?mt=8</string>
+		<key>description</key>
+		<string>KICKBASE is a soccer manager game (for German Bundesliga at the moment) where users can create their own leagues and play against each other by buying/selling players and assigning them to the first team. The points (for goals, passes, fouls etc.) are awarded in real time, as the real match is in progress.</string>
+        <key>notes</key>
+        <array>
+            <string>my main contribution to the project was the redesign of manager and player profiles</string>
+            <string>I was responsible for refactoring a large portion of the code</string>
+        </array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Shia Companion</string>
+		<key>image</key>
+		<string>icon_shia_companion</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/shia-companion/id889716236?mt=8</string>
+		<key>description</key>
+		<string>Shia Companion is an app for Shia Muslims. It helps them to determine prayer times regardless of the location. Also, the app incorporates a large number of prayers and a calendar with Muslim holidays. User is given a lot of customization options, like selection of a background, text size and prayer times offset.</string>
+        <key>notes</key>
+        <array>
+            <string>the app was built for Unique Mobile Applications exclusively</string>
+        </array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Vintage Engagement Rings - Try It On - Estate Diamond Jewelry</string>
+		<key>image</key>
+		<string>icon_antique_rings</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/vintage-engagement-rings-try/id778979610?mt=8</string>
+		<key>description</key>
+		<string>A marketing app built for Estate Diamond Jewelry which presents their collection of rings. Users can take a picture of their hand with a virtual ring on and share it via social networks.</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>iSistani</string>
+		<key>image</key>
+		<string>icon_isistani</string>
+		<key>url</key>
+		<string>https://itunes.apple.com/us/app/isistani/id535650702?mt=8</string>
+		<key>description</key>
+		<string>iSistani is an application which allows users to browse the rulings of Ayatullah Sistani, search multiple law manuals, add notes to each law and bookmark them for later reference.</string>
+        <key>notes</key>
+        <array>
+            <string>the app was built for Unique Mobile Applications exclusively</string>
+        </array>
+	</dict>
+</array>
+</plist>

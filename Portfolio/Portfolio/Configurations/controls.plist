@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Blur Dropdown</string>
+		<key>image</key>
+		<string>icon_prank_app</string>
+		<key>project</key>
+		<string>Prank Caller</string>
+		<key>viewController</key>
+		<string>BlurDropdownViewController</string>
+	</dict>
+    <dict>
+        <key>title</key>
+        <string>Color Picker</string>
+        <key>image</key>
+        <string>icon_sked</string>
+        <key>project</key>
+        <string>Sked</string>
+        <key>viewController</key>
+        <string>ColorPickerViewController</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Rating Slider</string>
+        <key>image</key>
+        <string>icon_beerpic</string>
+        <key>project</key>
+        <string>BeerPic</string>
+        <key>viewController</key>
+        <string>RatingSliderViewController</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Alert View</string>
+        <key>image</key>
+        <string>icon_mytest</string>
+        <key>project</key>
+        <string>mytest</string>
+        <key>viewController</key>
+        <string>AlertViewController</string>
+    </dict>
+    <dict>
+        <key>title</key>
+        <string>Drawers Table View</string>
+        <key>image</key>
+        <string>icon_kkstr</string>
+        <key>project</key>
+        <string>KICKBASE</string>
+        <key>viewController</key>
+        <string>DrawersTableViewController</string>
+    </dict>
+</array>
+</plist>
