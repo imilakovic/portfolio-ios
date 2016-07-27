@@ -1,6 +1,8 @@
 # Portfolio iOS
 
-Portfolio is an application designed primarily to showcase my iOS development skills.
+Please see the demo video at: http://www.foosh.hr/
+
+<b>Portfolio</b> is an application designed primarily to showcase my iOS development skills.
 
 It should also serve a purpose as an interactive résumé with 6 sections:
 
