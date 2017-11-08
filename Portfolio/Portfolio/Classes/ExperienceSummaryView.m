@@ -69,6 +69,8 @@
         NSArray *skills = @[@"Objective-C",
                             @"a bit of Swift",
                             @"iOS SDK",
+                            @"Java",
+                            @"Android SDK",
                             @"JSON API integration",
                             @"a bit of Node.js and MySQL",
                             @"Git version control",

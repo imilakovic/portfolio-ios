@@ -36,13 +36,13 @@
     
     _firstAddressLabel = [UILabel new];
     _firstAddressLabel.font = [UIFont p_fontOfSize:12.0];
-    _firstAddressLabel.text = @"Cvjetkova 22a";
+    _firstAddressLabel.text = @"Apt 416 - 254 Gorge Rd East";
     _firstAddressLabel.textColor = [UIColor p_textColor_default];
     [self.view addSubview:_firstAddressLabel];
     
     _secondAddressLabel = [UILabel new];
     _secondAddressLabel.font = [UIFont p_fontOfSize:12.0];
-    _secondAddressLabel.text = @"31000 Osijek, Croatia";
+    _secondAddressLabel.text = @"Victoria, BC, V9A 6W4, Canada";
     _secondAddressLabel.textColor = [UIColor p_textColor_default];
     [self.view addSubview:_secondAddressLabel];
     
@@ -55,7 +55,7 @@
     _phoneButton = [self button];
     [_phoneButton addTarget:self action:@selector(phoneButtonTapped:) forControlEvents:UIControlEventTouchUpInside];
     [_phoneButton setImage:[UIImage p_contact_phone] forState:UIControlStateNormal];
-    [_phoneButton setTitle:@"+385 91 929 0980" forState:UIControlStateNormal];
+    [_phoneButton setTitle:@"+1 (778) 587-7985" forState:UIControlStateNormal];
     [self.view addSubview:_phoneButton];
 }
 
@@ -123,7 +123,7 @@
 
 
 - (NSURL *)phoneURL {
-    return [NSURL URLWithString:@"tel://+385919290980"];
+    return [NSURL URLWithString:@"tel://+17785877985"];
 }
 
 
